@@ -2,6 +2,8 @@
 
 ---
 
+[回到仓库](../README.md)
+
 ## 工具
 
 Python 3.6(64-bit), VS Code, Chrome
@@ -12,4 +14,4 @@ Python 3.6(64-bit), VS Code, Chrome
 
 ## 爬虫编写过程
 
-[爬虫编写过程](./Details.md)
+[爬虫编写过程](./DETAILS.md)
