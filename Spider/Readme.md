@@ -12,4 +12,4 @@ Python 3.6(64-bit), VS Code, Chrome
 
 ## 爬虫编写过程
 
-[爬虫编写过程](./one.md)
+[爬虫编写过程](./Details.md)
