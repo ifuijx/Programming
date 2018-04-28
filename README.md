@@ -11,3 +11,4 @@
 |名称|描述|
 |:--|:--|
 |[静态网页爬虫示例](./Spider/README.md)|包括单线程和协程示例|
+|[Python 解释器示例](./Python_Interpreter/README.md)|学习自其他文章|
